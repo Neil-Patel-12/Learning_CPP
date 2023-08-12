@@ -1,2 +1,2 @@
 # Learning-CPP
-This cpp Source file covers most of the C++ concepts and ideas.
+These cpp Source file covers most of the C++ concepts and ideas.
